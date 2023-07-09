@@ -28,8 +28,7 @@ Working the back-end elements for this e-commerce website, provided a lot of exp
 
 * <a href=" ">Ecommerce Back-end Repository</a>
 
-https://github.com/GregNasir/lets-buy-online-ecommerce-backend/assets/63434657/41d90d4e-a265-44e8-87c3-76d4510f946a
-
+https://github.com/GregNasir/lets-buy-online-ecommerce-backend/assets/63434657/85986489-c32e-4a48-a11b-d06c8f093d50
 
 <img width="1440" alt="Insomania-screen-shot" src="https://github.com/GregNasir/lets-buy-online-ecommerce-backend/assets/63434657/64600da1-8179-4c04-b707-616d4e89d641">
 
