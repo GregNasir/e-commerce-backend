@@ -1,3 +1,4 @@
+// Seeds products
 const { Product } = require('../models');
 
 const productData = [
