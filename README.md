@@ -25,12 +25,13 @@ Using the sequelize module and MySQL as a base, this back-end project supports t
 Working the back-end elements for this e-commerce website, provided a lot of experience using sequelize and exposed me to its powerful and effective features.
 
 ## Repository and demo
+
 * <a href=" ">Ecommerce Back-end Repository</a>
-  
-* <a href=" ">Demo of Ecommerce Back-end</a>
 
-<img width="723" alt=" " src=" ">
+https://github.com/GregNasir/lets-buy-online-ecommerce-backend/assets/63434657/41d90d4e-a265-44e8-87c3-76d4510f946a
 
+
+<img width="1440" alt="Insomania-screen-shot" src="https://github.com/GregNasir/lets-buy-online-ecommerce-backend/assets/63434657/64600da1-8179-4c04-b707-616d4e89d641">
 
 ## Installation
 
